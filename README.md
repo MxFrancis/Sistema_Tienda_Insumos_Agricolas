@@ -1,2 +1,2 @@
-# Sistema_Tienda_Insumos_Agricolas
-Repositorio para el diseño y modelado de la base de datos del sistema web de gestión de una tienda agricola
+# Sistema_Web_Tienda_Insumos_Agricolas
+Repositorio para el diseño mediante modelo E-R y Relacional e implementacion en una base de datos
