@@ -1,0 +1,6 @@
+id_insumo,nombre,precio_unitario,stock,fecha_caducidad,id_categoria
+"INS01","Urea Granulada 50kg",28,100,"2026-12-31","CAT01"
+"INS02","Voliam Flexi",42,40,"2027-04-15","CAT02"
+"INS03","Humus de Lombriz Saco",12,200,"2028-01-01","CAT03"
+"INS04","Semilla Maiz Hibrido",55,30,"2026-11-20","CAT04"
+"INS05","Bandejas Germinacion",3,500,"2030-01-01","CAT05"

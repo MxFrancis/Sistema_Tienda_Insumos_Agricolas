@@ -1,0 +1,6 @@
+id_pedido,estado,cantidad_producto,cedula
+"PED01","pendiente",2,"1105556661"
+"PED02","pagado",1,"1105556662"
+"PED03","pendiente",5,"1105556663"
+"PED04","pagado",10,"1105556664"
+"PED05","pendiente",3,"1105556665"
